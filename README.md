@@ -2,6 +2,13 @@
 
 A simple API caller that requests the price of bitcoin from an API server and displays it on a screen. Programmed in MicroPython on a Raspberry Pi Pico 2 W.
 
+## How to run
+
+1. Check the code and set the circuit up (assuming the same screen and microcontroller).
+2. Make sure the correct display library is on the microcontroller - there is a copy of 'ssd1306' driver on this repository.
+3. Set the circuit up physically, making sure the right pins are correctly placed.
+4. Hope it works.
+
 ## Equipment
 - Raspberry Pi Pico 2 W
 > [!NOTE]
