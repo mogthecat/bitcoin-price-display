@@ -25,17 +25,10 @@ Raspberry Pi Pico 2 W Pinout Diagram - https://github.com/user-attachments/files
 ## Photographs
 
 <img width="2440" height="1640" alt="image" src="https://github.com/user-attachments/assets/53c4f1d6-0281-4199-81e2-f5424a912a26" />
+Picture 1: Full Project
 <img width="2440" height="1762" alt="image" src="https://github.com/user-attachments/assets/5e112682-afe0-4120-a9cf-e1ad740431cc" />
+Picture 2: Connections to Raspberry Pi Pico
 <img width="2440" height="1722" alt="image" src="https://github.com/user-attachments/assets/94b139e8-c00d-4dcd-a401-293e54bbaa97" />
+Picture 3: Connections to Waveshare 2.23" OLED Display
 <img width="2438" height="1696" alt="image" src="https://github.com/user-attachments/assets/d515e72e-496b-4a51-afe2-66bf892be33b" />
-
-Copyright <2026> <William Ng>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
+Picture 4: The loading screen when making an API request
