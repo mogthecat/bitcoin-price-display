@@ -9,7 +9,7 @@ A simple API caller that requests the price of bitcoin from an API server and di
 3. Set the circuit up physically, making sure the right pins are correctly placed.
 
 ## Equipment
-- Raspberry Pi Pico 2 W
+- Raspberry Pi Zero 2 W
 > [!NOTE]
 > Any microcontroller with network access and MicroPython support should be acceptable.
 - Waveshare 2.3" 128 x 32 OLED HAT display
