@@ -40,4 +40,4 @@ Picture 3: Connections to Waveshare 2.23" OLED Display
 Picture 4: The loading screen when making an API request
 
 > [!WARNING]
-> This repository is not planned on being maintained. It is just a place to upload my code. If there are any questions regarding code, setup, etc, I am happy to answer them. Otherwise, there will be little change to this repository.
+> This repository is not planned on being maintained. It is just a place to upload my code. If there are any questions regarding code, setup, etc, I am happy to answer them. Otherwise, there will be few changes to this repository.
