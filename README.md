@@ -38,3 +38,6 @@ Picture 2: Connections to Raspberry Pi Pico
 Picture 3: Connections to Waveshare 2.23" OLED Display
 <img width="2438" height="1696" alt="image" src="https://github.com/user-attachments/assets/d515e72e-496b-4a51-afe2-66bf892be33b" />
 Picture 4: The loading screen when making an API request
+
+> [!WARNING]
+> This repository is not planned on being maintained. It is just a place to upload my code. If there are any questions regarding code, setup, etc, I am happy to answer them. Otherwise, there will be little change to this repository.
